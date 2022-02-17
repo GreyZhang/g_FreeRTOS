@@ -9,3 +9,4 @@
 之前，对对FreeRTOS的了解主要还是在应用上，移植等都是现成的。这一次重建这个repo，为这个工作创造一个基础的前提。同时，这一次的熟悉也不会完全是应用了，还是研究一下内核的机理。至于跟RT-Thread的缘分，以后再续了！
 
 ** 学习笔记
+- [[https://greyzhang.blog.csdn.net/article/details/122992956][1171_Simple FreeRTOS Demo Projects都有什么]]
