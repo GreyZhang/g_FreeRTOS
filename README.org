@@ -11,3 +11,4 @@
 ** 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/122992956][1171_Simple FreeRTOS Demo Projects都有什么]]
 - [[https://greyzhang.blog.csdn.net/article/details/122992994][1172_FreeRTOS QEMU项目信息梳理]]
+- [[https://mp.csdn.net/mp_blog/creation/editor/122993032][1173_FreeRTOS_QEMU+gcc例程环境搭建]]
