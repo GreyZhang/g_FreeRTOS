@@ -8,6 +8,14 @@
 
 之前，对对FreeRTOS的了解主要还是在应用上，移植等都是现成的。这一次重建这个repo，为这个工作创造一个基础的前提。同时，这一次的熟悉也不会完全是应用了，还是研究一下内核的机理。至于跟RT-Thread的缘分，以后再续了！
 
+** 学习计划
+1. 重温FreeRTOS的基础功能；
+2. 弄清楚FreeRTOS内核的机理;
+3. 积累一套方法，后续可以知道如何评估一个OS的优劣；
+4. 可以快速把FreeRTOS移植到我想用的MCU平台上；
+5. 基于OS的接口，梳理可以重用的软件模块；
+6. 可以的话，了解一下类似QEMU这样的仿真技术。
+
 ** 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/122992956][1171_Simple FreeRTOS Demo Projects都有什么]]
 - [[https://greyzhang.blog.csdn.net/article/details/122992994][1172_FreeRTOS QEMU项目信息梳理]]
