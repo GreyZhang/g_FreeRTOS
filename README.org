@@ -21,3 +21,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122992994][1172_FreeRTOS QEMU项目信息梳理]]
 - [[https://mp.csdn.net/mp_blog/creation/editor/122993032][1173_FreeRTOS_QEMU+gcc例程环境搭建]]
 - [[https://greyzhang.blog.csdn.net/article/details/123441681][1190_FreeRTOS学习笔记_ST_SPC5Studio中tick的修改]]
+- [[https://blog.csdn.net/grey_csdn/article/details/124675768][1233_FreeRTOS的下载与下一步的学习准备]] 
