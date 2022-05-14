@@ -26,3 +26,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/124717580][1235_FreeRTOS的官方Demo应用]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124740991][1236_FreeRTOS官方演示工程的文件介绍]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124748357][1237_FreeRTOS官方例程中与硬件无关的例子]]
+- [[https://blog.csdn.net/grey_csdn/article/details/124771300][1238_从硬件平台方面看一下FreeRTOS的示范工程支持的平台]]
