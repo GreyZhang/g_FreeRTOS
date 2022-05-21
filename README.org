@@ -32,3 +32,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/124831302][1241_进行FreeRTOS的全新移植]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124871046][1243_FreeRTOS的软件定时器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124894235][1244_FreeRTOS的钩子函数]]
+- [[https://blog.csdn.net/grey_csdn/article/details/124895525][1245_FreeRTOS的源代码组织形式]]
