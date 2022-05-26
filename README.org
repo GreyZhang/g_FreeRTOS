@@ -37,3 +37,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/124934371][1247_FreeRTOS的静态以及动态存储分配]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124953520][1248_FreeRTOS的系统配置选项]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124973419][1249_梳理FreeRTOS的QEMU工程只保留所需文件]]
+- [[https://blog.csdn.net/grey_csdn/article/details/124993489][1250_FreeRTOS_QEMU_M3_blinky例程梳理分析]]
