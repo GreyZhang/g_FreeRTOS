@@ -45,3 +45,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125173118][1263_FreeRTOS的动态任务创建分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125193655][1264_FreeRTOS任务的初始化以及堆栈初始化处理分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125210479][1265_FreeRTOS中向任务就绪链表增加任务的实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125227894][1266_FreeRTOS调度器启动代码实现分析]] 
