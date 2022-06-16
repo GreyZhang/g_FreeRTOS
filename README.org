@@ -51,3 +51,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125266028][1269_STM32F103使用CubeIDE修改FreeRTOS的Tick源为MCU定时器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125285673][1270_FreeRTOS的TickHandler实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125289506][1271_FreeRTOS中xPortPendSVHandler的实现]]
+- [[https://greyzhang.blog.csdn.net/article/details/125322305][1272_FreeRTOS中的几个任务相关的链表]]
