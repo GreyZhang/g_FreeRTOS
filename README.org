@@ -54,3 +54,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/125322305][1272_FreeRTOS中的几个任务相关的链表]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125341777][1273_FreeRTOS静态创建任务实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125348079][1274_FreeRTOS中删除任务功能的实现]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125354818][1275_FreeRTOS task.h中的几个数据结构分析]]
