@@ -59,3 +59,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125416761][1278_FreeRTOS_借助prvAddCurrentTaskToDelayedList接口理解delayed task]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125456988][1281_FreeRTOS_vTaskDelayUntil实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125511915][1284_FreeRTOS任务优先级获取实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125547879][1286_FreeRTOS的任务优先级设置实现分析]]
