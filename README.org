@@ -61,3 +61,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125511915][1284_FreeRTOS任务优先级获取实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125547879][1286_FreeRTOS的任务优先级设置实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125565828][1287_FreeRTOS中prvTaskIsTaskSuspended()接口实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125571288][1288_FreeRTOS中vTaskResume()接口以及中断安全版本接口实现分析]]
