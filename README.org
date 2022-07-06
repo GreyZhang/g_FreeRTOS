@@ -64,3 +64,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125571288][1288_FreeRTOS中vTaskResume()接口以及中断安全版本接口实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125582246][1289_FreeRTOS中vTaskSuspend()接口实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125607680][1290_FreeRTOS中prvTaskIsTaskSuspended()接口实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125631775][1292_FreeROS中vTaskResume()以及xTaskResumeFromISR()的实现分析]]
