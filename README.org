@@ -67,3 +67,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125631775][1292_FreeROS中vTaskResume()以及xTaskResumeFromISR()的实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125652123][1293_FreeRTOS中xTaskResumeAll()接口的实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125671299][1294_FreeRTOS中tick、任务数、任务名称查询实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125694521][1295_FreeRTOS中几个事件相关接口实现分析]]
