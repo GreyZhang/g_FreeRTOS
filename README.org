@@ -69,3 +69,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125671299][1294_FreeRTOS中tick、任务数、任务名称查询实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125694521][1295_FreeRTOS中几个事件相关接口实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125706905][1296_FreeRTOS中的几个超时处理接口实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125719482][1297_FreeRTOS中的idle task实现分析]]
