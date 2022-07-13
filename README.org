@@ -71,3 +71,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125706905][1296_FreeRTOS中的几个超时处理接口实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125719482][1297_FreeRTOS中的idle task实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125735327][1298_FreeRTOS中的TCB删除接口实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125755855][1299_FreeRTOS中的任务状态以及切换测试]]
