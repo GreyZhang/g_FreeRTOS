@@ -72,4 +72,5 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125719482][1297_FreeRTOS中的idle task实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125735327][1298_FreeRTOS中的TCB删除接口实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125755855][1299_FreeRTOS中的任务状态以及切换测试]]
-- [[https://blog.csdn.net/grey_csdn/article/details/125776689][1300_FreeRTOS中的优先级相关知识点分析]] 
+- [[https://blog.csdn.net/grey_csdn/article/details/125776689][1300_FreeRTOS中的优先级相关知识点分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125796710][1301_两种方式为开发板增加串口监控功能]]
