@@ -75,3 +75,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125776689][1300_FreeRTOS中的优先级相关知识点分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125796710][1301_两种方式为开发板增加串口监控功能]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125816161][1302_FreeRTOS中CoRoutine设计实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125859667][1304_FreeRTOS从任务控制块信息的角度尝试裁剪内核节省资源]]
