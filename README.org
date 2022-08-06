@@ -17,10 +17,10 @@
 6. 可以的话，了解一下类似QEMU这样的仿真技术。
 
 ** 学习笔记
-- [[https://greyzhang.blog.csdn.net/article/details/122992956][1171_Simple FreeRTOS Demo Projects都有什么]]
-- [[https://greyzhang.blog.csdn.net/article/details/122992994][1172_FreeRTOS QEMU项目信息梳理]]
-- [[https://mp.csdn.net/mp_blog/creation/editor/122993032][1173_FreeRTOS_QEMU+gcc例程环境搭建]]
-- [[https://greyzhang.blog.csdn.net/article/details/123441681][1190_FreeRTOS学习笔记_ST_SPC5Studio中tick的修改]]
+- [[https://blog.csdn.net/grey_csdn/article/details/122992956][1171_Simple FreeRTOS Demo Projects都有什么]]
+- [[https://blog.csdn.net/grey_csdn/article/details/122992994][1172_FreeRTOS QEMU项目信息梳理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/122993032][1173_FreeRTOS_QEMU+gcc例程环境搭建]]
+- [[https://blog.csdn.net/grey_csdn/article/details/123441681][1190_FreeRTOS学习笔记_ST_SPC5Studio中tick的修改]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124675768][1233_FreeRTOS的下载与下一步的学习准备]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124697035][1234_FreeRTOS内核快速入门说明阅读]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124717580][1235_FreeRTOS的官方Demo应用]]
@@ -51,7 +51,7 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125266028][1269_STM32F103使用CubeIDE修改FreeRTOS的Tick源为MCU定时器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125285673][1270_FreeRTOS的TickHandler实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125289506][1271_FreeRTOS中xPortPendSVHandler的实现]]
-- [[https://greyzhang.blog.csdn.net/article/details/125322305][1272_FreeRTOS中的几个任务相关的链表]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125322305][1272_FreeRTOS中的几个任务相关的链表]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125341777][1273_FreeRTOS静态创建任务实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125348079][1274_FreeRTOS中删除任务功能的实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125354818][1275_FreeRTOS task.h中的几个数据结构分析]]
