@@ -79,3 +79,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125863943][1305_FreeRTOS的队列基本功能描述]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125941283][1308_探索FreeRTOS中的任务应该分配多大的堆栈空间]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126190512][1322_FreeRTOS中的队列使用的信息梳理以及初步队列的使用]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126206131][1324_FreeRTOS队列创建函数实现分析]]
