@@ -82,3 +82,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/126206131][1324_FreeRTOS队列创建函数实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126209565][1325_FreeRTOS队列发送函数的实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126324348][1327_FreeRTOS几个队列满或者空的判断接口分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/126329328][1328_FreeRTOS队列的复位的接口实现与调用分析]]
