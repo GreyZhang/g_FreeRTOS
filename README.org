@@ -86,3 +86,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/126354307][1329_FreeRTOS从中断ISR中发送队列消息实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126394259][1331_FreeRTOS队列功能xQueueReceive的实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126413956][1332_FreeRTOS队列中的几个辅助小函数实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126432105][1333_FreeRTOS中xQueueSemaphoreTake函数的实现分析]] 
