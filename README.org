@@ -89,3 +89,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/126432105][1333_FreeRTOS中xQueueSemaphoreTake函数的实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126440871][1334_FreeRTOS中xQueuePeek函数的实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126454209][1335_FreeRTOS中xQueueReceiveFromISR函数的实现]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126474498][1336_FreeRTOS中一组队列辅助接口函数的实现分析]]
